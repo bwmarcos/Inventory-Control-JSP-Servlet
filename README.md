@@ -1,2 +1,2 @@
 # Inventory-Control-JSP-Servlet
-Java Web Aplication Inventory Control
+Java Web Application Inventory Control
